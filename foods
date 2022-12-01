@@ -1,0 +1,8 @@
+{
+  "food": [
+    {"id": 1, "name": "Carotte"},
+    {"id": 2, "name": "Activia"},
+    {"id": 3, "name": "Tenders"},
+    {"id": 4, "name": "Nutella"}
+  ]
+}
